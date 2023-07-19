@@ -2,14 +2,14 @@
 
 @section('content')
       <!-- start slider section -->
-      <div class=" banner_main">
+      <div id="home" class=" banner_main">
          <div class="container-fluid">
             <div class="row">
                <div class="col-md-5">
                   <div class="bluid">
                      <h1> <a class="coming" >APPS</a> <br><span class="black">Nest <br> Swallow</span></h1>
                      <p>Welcome<br> Your Online Guide To Birds And Bird Watching</p>
-                     <a class="read_more" href="birds.html">Coming Soon </a>
+                     <a class="read_more" href="#">Coming Soon </a>
                   </div>
                </div>
                <div class="col-md-7">
@@ -73,9 +73,9 @@
                   <div class="titlepage text_align_center">
                      <h2>About Us Nest Swallow</h2>
                      <div class="titlepage text_align_right">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit  </p>
+                        <p>Nest Swallow merupakan salah satu aplikasi yang menyediakan layanan jual beli tentang burung walet. sarang walet memiliki banyak manfaat untuk kesehatan tubuh, mulai dari mencegah penuaan, meningkatkan konsentrasi hingga melawan kanker.</p>
                      </div>
-                     <a class="read_more" href="about.html">Read More</a>
+                     <a class="read_more" href="#">Read More</a>
                   </div>
                </div>
             </div>

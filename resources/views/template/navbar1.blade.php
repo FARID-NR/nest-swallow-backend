@@ -5,7 +5,7 @@
  <!-- end loader -->
  <div id="mySidepanel" class="sidepanel">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-    <a class="active" href="index.html">Home</a>
+    <a class="active" href="#">Home</a>
     <a href="#about">About</a>
     <!-- <a href="birds.html">Our Birds</a>
     <a href="testimonial.html">Testimonial</a> -->
@@ -19,7 +19,7 @@
           <div class="row">
              <div class="col-sm-3">
                 <div class="logo">
-                   <a href="index.html"><img src="assets/images/logo3.png" /></a>
+                   <a href="#home"><img src="assets/images/logo3.png" /></a>
 
                 </div>
              </div>
